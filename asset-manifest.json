@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/canvas_test_task/static/css/main.cf5ec242.chunk.css",
+    "main.js": "/canvas_test_task/static/js/main.7d3de730.chunk.js",
+    "main.js.map": "/canvas_test_task/static/js/main.7d3de730.chunk.js.map",
+    "runtime-main.js": "/canvas_test_task/static/js/runtime-main.04297658.js",
+    "runtime-main.js.map": "/canvas_test_task/static/js/runtime-main.04297658.js.map",
+    "static/js/2.6eda02be.chunk.js": "/canvas_test_task/static/js/2.6eda02be.chunk.js",
+    "static/js/2.6eda02be.chunk.js.map": "/canvas_test_task/static/js/2.6eda02be.chunk.js.map",
+    "index.html": "/canvas_test_task/index.html",
+    "precache-manifest.24719c0aef42278ebb33d8772ff7dc18.js": "/canvas_test_task/precache-manifest.24719c0aef42278ebb33d8772ff7dc18.js",
+    "service-worker.js": "/canvas_test_task/service-worker.js",
+    "static/css/main.cf5ec242.chunk.css.map": "/canvas_test_task/static/css/main.cf5ec242.chunk.css.map",
+    "static/js/2.6eda02be.chunk.js.LICENSE.txt": "/canvas_test_task/static/js/2.6eda02be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04297658.js",
+    "static/js/2.6eda02be.chunk.js",
+    "static/css/main.cf5ec242.chunk.css",
+    "static/js/main.7d3de730.chunk.js"
+  ]
+}
